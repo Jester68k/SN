@@ -1,5 +1,6 @@
 ゲーム自体はフリーゲーム夢現で公開しています。
 下のリンクからダウンロードできます。
+
 https://freegame-mugen.jp/cms/mt-cp.cgi?__mode=view&blog_id=1&id=10672
 
 これはシュレーディンガーのねこねこにゃんにゃん（横画面）のUnityのプロジェクトです。
