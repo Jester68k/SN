@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 436262721c600f64ebb6509757cfe37e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - title_bgm: {fileID: 8300000, guid: 812b7fa9143b88342a2fc05dde94785c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
